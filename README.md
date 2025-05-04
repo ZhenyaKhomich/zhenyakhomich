@@ -5,15 +5,11 @@
    <br>
 🛠️ Работаю с HTML/CSS, JavaScript, TypeScript, Angular, Webpack и тем, что заставляет пиксели слушаться.
   <br>
-
 ⚡ Люблю, когда код чист, как утро понедельника. Постоянно учусь, совершенствуюсь и верю, что каждый commit приближает к идеалу.
 <br>
-
 Если вы читаете это — возможно, мы уже на одной волне. 🚀
- 
- 
+  <br>
 </p>
-
 ---
 
 ### 🛠️ Стек технологий
@@ -37,10 +33,6 @@
 
 ### 📊 Статистика GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhenyakhomich&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenyakhomich&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyakhomich&layout=compact&theme=dark)
@@ -52,7 +44,7 @@
 ### 📫 Контакты
 
 - 💼 Telegram: [ZhenyaKhomich](https://t.me/Zhenyatsoy2106)
-- 💬 Discord: [ZhenyaKhomich]((https://discordapp.com/users/1099030148709355682/))  
+- 💬 Discord: [ZhenyaKhomich](https://discordapp.com/users/1099030148709355682/)
 - 📬 Почта: zhenyatsoy21061992@gmail.com
 - 🌐 Портфолио: [Портфолио](
 https://zhenyakhomich.github.io/rsschool-cv-2024-st0/)
