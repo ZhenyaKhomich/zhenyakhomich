@@ -12,7 +12,6 @@
 </p>
 
 ### 🛠️ Стек технологий
-<div align="center">
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
   ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
@@ -28,17 +27,14 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
   ![Figma](https://img.shields.io/badge/-Figma-fff?style=for-the-badge&logo=figma&logoColor=000)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
-</div>
+
 
 ### 📊 Статистика GitHub
-<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenyakhomich&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyakhomich&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhenyakhomich&theme=dark)
-</div>
 
 ### 📫 Контакты
-
 - 💼 Telegram: [ZhenyaKhomich](https://t.me/Zhenyatsoy2106)
 - 💬 Discord: [ZhenyaKhomich](https://discordapp.com/users/1099030148709355682/)
 - 📬 Почта: zhenyatsoy21061992@gmail.com
