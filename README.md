@@ -31,13 +31,15 @@
 
 
 ### 📊 Статистика GitHub
-
+<span>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenyakhomich&show_icons=true&theme=dark)
-
+</span>
+<span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyakhomich&layout=compact&theme=dark)
-
+   </span>
+<span>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhenyakhomich&theme=dark)
-
+</span>
 
 ### 📫 Контакты
 
