@@ -15,6 +15,13 @@
   <br>
 </p>
 
+### 📫 Контакты
+- 💼 Telegram: [Yauheny Igorevich](https://t.me/Zhenyatsoy2106)
+- 💬 Discord: [Zhenya Khomich](https://discordapp.com/users/1099030148709355682/)
+- 📬 Почта: [E-mail](mailto:zhenyatsoy21061992@gmail.com)
+- 🌐 Портфолио: [Евгений Хомич](
+https://zhenyakhomich.github.io/rsschool-cv-2024-st0/)
+
 ### 🛠️ Стек технологий
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -40,14 +47,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenyakhomich&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyakhomich&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhenyakhomich&theme=dark)
-
-### 📫 Контакты
-- 💼 Telegram: [Yauheny Igorevich](https://t.me/Zhenyatsoy2106)
-- 💬 Discord: [Zhenya Khomich](https://discordapp.com/users/1099030148709355682/)
-- 📬 Почта: [E-mail](mailto:zhenyatsoy21061992@gmail.com)
-- 🌐 Портфолио: [Евгений Хомич](
-https://zhenyakhomich.github.io/rsschool-cv-2024-st0/)
-
 
 <h2 align="center">Спасибо, что заглянули! 🌟</h2>
 
