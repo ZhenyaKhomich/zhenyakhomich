@@ -44,12 +44,12 @@
 ### 📫 Контакты
 - 💼 Telegram: [Yauheny Igorevich](https://t.me/Zhenyatsoy2106)
 - 💬 Discord: [Zhenya Khomich](https://discordapp.com/users/1099030148709355682/)
-- 📬 Почта: zhenyatsoy21061992@gmail.com
+- 📬 Почта: [E-mail](zhenyatsoy21061992@gmail.com)
 - 🌐 Портфолио: [Евгений Хомич](
 https://zhenyakhomich.github.io/rsschool-cv-2024-st0/)
 
 
-<p align="center">Спасибо, что заглянули! 🌟</p>
+<h2 align="center">Спасибо, что заглянули! 🌟</h2>
 
 <!--
 **ZhenyaKhomich/zhenyakhomich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
