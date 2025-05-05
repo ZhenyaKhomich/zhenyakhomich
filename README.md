@@ -44,7 +44,7 @@
 ### 📫 Контакты
 - 💼 Telegram: [Yauheny Igorevich](https://t.me/Zhenyatsoy2106)
 - 💬 Discord: [Zhenya Khomich](https://discordapp.com/users/1099030148709355682/)
-- 📬 Почта: [E-mail](zhenyatsoy21061992@gmail.com)
+- 📬 Почта: [E-mail](mailto:zhenyatsoy21061992@gmail.com)
 - 🌐 Портфолио: [Евгений Хомич](
 https://zhenyakhomich.github.io/rsschool-cv-2024-st0/)
 
