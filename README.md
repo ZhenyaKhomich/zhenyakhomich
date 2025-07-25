@@ -20,7 +20,7 @@
 - 💬 Discord: [Zhenya Khomich](https://discordapp.com/users/1099030148709355682/)
 - 📬 Почта: [E-mail](mailto:zhenyatsoy21061992@gmail.com)
 - 🌐 Портфолио: [Евгений Хомич](
-https://zhenyakhomich.github.io/rsschool-cv-2024-st0/)
+https://zhenyakhomich.github.io/rsschool-cv/)
 
 ### 🛠️ Стек технологий
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
